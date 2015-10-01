@@ -1,3 +1,3 @@
 # Physics 2200 - github demo
 
-Area of a triangle using tructures
+Area of a triangle using structures
